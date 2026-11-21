@@ -1,0 +1,10 @@
+LASER STUDIO PROPRIETARY LICENSE
+Copyright (c) 2026 Damian Borkowski. All rights reserved.
+
+Laser Studio original source code, application, documentation and branding are
+proprietary. Public installers may be downloaded and used free of charge.
+Source access granted privately for review does not grant permission to publish,
+redistribute, sublicense or sell the source or derivative applications.
+No warranty is provided. Hardware compatibility and laser settings require
+independent verification on the actual device. Observe the equipment manual.
+Third-party components retain their own licenses and attribution notices.
