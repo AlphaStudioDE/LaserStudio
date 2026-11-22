@@ -1,0 +1,60 @@
+{
+  "format": "freedom.module-page@1",
+  "id": "laser-studio.workspace",
+  "version": "0.103.1",
+  "readme": {
+    "path": "README.md",
+    "bytes": 1759,
+    "sha256": "18fb2caed57183a17b51f1a36ac576dbd8cbbe88c5978c71e292f7807f9ebea0"
+  },
+  "images": [
+    {
+      "path": "logo.png",
+      "bytes": 186977,
+      "sha256": "5f62436a6eea9b38c246f0f77df996b734fb99126efca0c0198964947d0654f2",
+      "mime": "image/png",
+      "alt": "Laser Studio",
+      "role": "logo"
+    },
+    {
+      "path": "multi-table-design.png",
+      "bytes": 368998,
+      "sha256": "48b6a0abd0cdcbada0f83bfd607a1ef4a24b50602d456d669734c8fa8fc7171f",
+      "mime": "image/png",
+      "alt": "multi table design",
+      "role": "screenshot"
+    },
+    {
+      "path": "table-arrangement.png",
+      "bytes": 277610,
+      "sha256": "cbaae272076b20d1a000696a4ebe9263219bc50fb43420ced4de063b6e4624a1",
+      "mime": "image/png",
+      "alt": "table arrangement",
+      "role": "screenshot"
+    },
+    {
+      "path": "path-preview.png",
+      "bytes": 430750,
+      "sha256": "5a7bd4fe5f2dc570abc6fe85540a594aad129b3df9f2aa4e9f8e46b8efc75ed9",
+      "mime": "image/png",
+      "alt": "path preview",
+      "role": "screenshot"
+    },
+    {
+      "path": "table-simulation.png",
+      "bytes": 186307,
+      "sha256": "32119bbd1870f46d9d56bd4527a1bfa5a5603d95eccd8a71c24f469caf9f8488",
+      "mime": "image/png",
+      "alt": "table simulation",
+      "role": "screenshot"
+    },
+    {
+      "path": "grayscale-image-tools.png",
+      "bytes": 460453,
+      "sha256": "22866f9cfaa700c158104a31666a25a0ae5862a82aec6d307738034a734343cd",
+      "mime": "image/png",
+      "alt": "grayscale image tools",
+      "role": "screenshot"
+    }
+  ]
+}

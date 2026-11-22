@@ -1,0 +1,20 @@
+{
+  "format": "freedom.module-page@1",
+  "id": "laser-studio.desktop-platform",
+  "version": "0.103.1",
+  "readme": {
+    "path": "README.md",
+    "bytes": 1293,
+    "sha256": "0e7986941e08e73fe16b535827db1b37c28f6bed2e01cca93af70e11e58e7cac"
+  },
+  "images": [
+    {
+      "path": "logo.png",
+      "bytes": 186977,
+      "sha256": "5f62436a6eea9b38c246f0f77df996b734fb99126efca0c0198964947d0654f2",
+      "mime": "image/png",
+      "alt": "Laser Studio",
+      "role": "logo"
+    }
+  ]
+}
